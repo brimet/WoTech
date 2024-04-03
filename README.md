@@ -9,4 +9,3 @@ Read me files uses markdown syntax to edit any text, formulas or codes.
 
 ## Second level heading
 
-# WoTech
